@@ -18,7 +18,7 @@ I am a passionate and dedicated **Full-Stack Developer** with expertise in build
 
 ## 🌐 Let's Connect:
 <p align="left">
-  <a href="https://www.linkedin.com/in/hammad-zahid-543a652a6/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-hammad-543a652a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61550731813472" target="_blank">
